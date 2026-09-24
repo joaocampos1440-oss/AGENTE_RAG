@@ -1,5 +1,5 @@
 requests
-BeaultifulSoup
+beautifulsoup4
 python-dotenv
 openai
 streamlit
